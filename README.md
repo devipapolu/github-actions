@@ -1,6 +1,7 @@
 # github-actions
 “GitHub Actions is an automation tool inside GitHub that is used to automate the CI/CD pipeline by defining workflows in YAML files.”
-
+ ***why github action:***
+ I chose GitHub Actions to reduce manual intervention such as provisioning servers, installing plugins, and integrating tools. With GitHub Actions, we automate the entire CI/CD pipeline using YAML workflow files.
 **Breakdown:**
 is an automation tool inside GitHub → GitHub lo built-in automation tool.
 used to automate the CI/CD pipeline → build, test, deploy automatic cheyadaniki.
